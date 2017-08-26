@@ -109,7 +109,7 @@ toc:
 #### Links
 links:
   
-
+excerpt_separator: <!--more-->
 #### Comment
 duoshuo_shortname:    ## e.g. wuchong      your duoshuo short name.       website: http://duoshuo.com
 disqus_shortname: alexchan    ## e.g. wuchong      your disqus short name.        website: http://disqus.com
