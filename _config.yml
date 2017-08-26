@@ -7,7 +7,7 @@ highlighter: rouge
 
 #### Permalink
 # For more see: http://jekyllrb.com/docs/permalinks/
-permalink: /:title/
+permalink: pretty
 
 #### Markdown Processors
 # 'redcarpet' is unsupported on GitHub Pages now.
@@ -53,16 +53,14 @@ menu:
 widgets:
 - category
 - tag
-- tagcloud
 - links
 - douban
-- github-card
 - rss
 ## provide seven widgets:github-card,category,tag,rss,archive,tagcloud,links,weibo,douban
 
 
 #### RSS
-rss: /atom.xml ## RSS address.
+rss: ##/atom.xml ## RSS address.
 
 #### Image
 imglogo:
@@ -91,10 +89,10 @@ author:
   weibo_verifier:  ## e.g. b3593ceb Your weibo-show widget verifier ,if you use weibo-show it is needed.
   tsina:      ## e.g. 2176287895  Your weibo ID,It will be used in share button.
   douban:     ## e.g. wuchong1014 or your id for https://www.douban.com/people/wuchong1014
-  zhihu: https://www.zhihu.com/people/alex-21-10
+  zhihu: alex-21-10
   email: 745342542@qq.com
   twitter:    ## e.g. jarkwu for https://twitter.com/jarkwu
-  github: https://github.com/chanyixialex
+  github: chanyixialex
   facebook:   ## e.g. imjark for https://facebook.com/imjark
   linkedin:   ## e.g. wuchong1014 for https://www.linkedin.com/in/wuchong1014
   google_plus:    ## e.g. "111190881341800841449" for https://plus.google.com/u/0/111190881341800841449, the "" is needed!
